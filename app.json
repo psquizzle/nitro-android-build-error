@@ -37,12 +37,7 @@
             "newArchEnabled": true
           },
           "android": {
-            "newArchEnabled": true,
-            "compileSdkVersion": 33,
-            "targetSdkVersion": 33,
-            "minSdkVersion": 23,
-            "buildToolsVersion": "33.0.0",
-            "kotlinVersion": "1.6.20"
+            "newArchEnabled": true
           }
         }
       ]
